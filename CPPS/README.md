@@ -19,6 +19,7 @@ Competitive Programming and Problem Solving
 | 2 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | LeetCode | [Ans](leetcode/0344.py) | + |
 | 3 | [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | LeetCode | [Ans](leetcode/0937.py) | - |
 | 4 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | LeetCode | [Ans](leetcode/0819.py) | + |
+| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | [Ans](leetcode/0049.py) | + |
 
 <br>
 
