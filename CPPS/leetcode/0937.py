@@ -2,7 +2,7 @@ from collections import defaultdict
 from typing import List
 
 
-class MySolution:
+class MyAnswer:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:
         letter_log, digit_log = defaultdict(list), []
 

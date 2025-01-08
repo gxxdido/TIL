@@ -3,7 +3,7 @@ from collections import Counter
 from typing import List
 
 
-class MySolution:
+class MyAnswer:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         paragraph = paragraph.lower()
         paragraph = re.sub("[^a-z\s]", " ", paragraph)

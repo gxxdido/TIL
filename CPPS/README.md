@@ -21,6 +21,7 @@ Competitive Programming and Problem Solving
 | 4 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | LeetCode | [Ans](leetcode/0819.py) | + |
 | 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | [Ans](leetcode/0049.py) | + |
 | 6 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring//) | LeetCode | [Ans](leetcode/0005.py) | ! | Time Limit Exceeded
+| 7 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Ans](leetcode/0001.py) | + |
 
 <br><br>
 
