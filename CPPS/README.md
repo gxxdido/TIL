@@ -22,6 +22,7 @@ Competitive Programming and Problem Solving
 | 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | [Ans](leetcode/0049.py) | + |
 | 6 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring//) | LeetCode | [Ans](leetcode/0005.py) | ! | Time Limit Exceeded
 | 7 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Ans](leetcode/0001.py) | + |
+| 8 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | [Ans](leetcode/0042.py) | ! |
 
 <br><br>
 
