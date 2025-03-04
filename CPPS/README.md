@@ -1,28 +1,38 @@
-# CPPS
+# Competitive Programming and Problem Solving
 
-Competitive Programming and Problem Solving
-
-<br><br>
-
-| Symbol | Description |
-|:---:|---|
-| + | Solved within 30 min
-| - | Solved over 30 min
-| ! | Got help from the solution
-| ? | Still don't understand the solution (should try again)
+A curated collection of solved algorithmic problems with status tracking.
 
 <br><br>
 
-| No. | Problem | From | Ans | Status | Note |
-|:---:|-----------------------|:----:|:------:|:---:|:---:|
-| 1 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | LeetCode | [Ans](leetcode/0125.py) | + |
-| 2 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | LeetCode | [Ans](leetcode/0344.py) | + |
-| 3 | [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | LeetCode | [Ans](leetcode/0937.py) | - |
-| 4 | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | LeetCode | [Ans](leetcode/0819.py) | + |
-| 5 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | LeetCode | [Ans](leetcode/0049.py) | + |
-| 6 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring//) | LeetCode | [Ans](leetcode/0005.py) | ! | Time Limit Exceeded
-| 7 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | [Ans](leetcode/0001.py) | + |
-| 8 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | LeetCode | [Ans](leetcode/0042.py) | ! |
+## Status Legend
+
+| Symbol | Meaning |
+|:------:|---------|
+| ✅ | Solved within 30 minutes |
+| ⏳ | Solved but took more than 30 minutes |
+| 📖 | Solved with help from the solution |
+| ❓ | Solution not fully understood (needs review) |
+
+<br><br>
+
+## Algorithm Problems
+
+| # | Platform | Problem | Solution | Status | Notes |
+|:---:|--------|---------|:--------:|:------:|:-----:|
+| 1 | LeetCode | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [.py](leetcode/0125.py) | ✅ |
+| 2 | LeetCode | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [.py](leetcode/0344.py) | ✅|
+| 3 | LeetCode | [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [.py](leetcode/0937.py) | ⏳ |
+| 4 | LeetCode | [819. Most Common Word](https://leetcode.com/problems/most-common-word/) | [.py](leetcode/0819.py) | ✅ |
+| 5 | LeetCode | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [.py](leetcode/0049.py) | ✅ |
+| 6 | LeetCode | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [.py](leetcode/0005.py) | 📖 | Time Limit Exceeded
+| 7 | LeetCode | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [.py](leetcode/0001.py) | ✅ |
+| 8 | LeetCode | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [.py](leetcode/0042.py) | 📖 |
+
+<br><br>
+
+## SQL Problems
+
+🚧 Coming soon...
 
 <br><br>
 
