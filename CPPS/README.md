@@ -32,7 +32,13 @@ A curated collection of solved algorithmic problems with status tracking.
 
 ## SQL Problems
 
-🚧 Coming soon...
+| # | Platform | Problem | Solution | Status | Notes |
+|:---:|--------|---------|:--------:|:------:|:-----:|
+| 1 | LeetCode | [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [.sql](leetcode/1757.sql) | ✅ |
+| 2 | LeetCode | [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [.sql](leetcode/0584.sql) | ✅ |
+| 3 | LeetCode | [595. Big Countries](https://leetcode.com/problems/big-countries/) | [.sql](leetcode/0595.sql) | ✅ |
+| 4 | LeetCode | [1148. Article Views I](https://leetcode.com/problems/article-views-i/) | [.sql](leetcode/1148.sql) | ✅ |
+| 5 | LeetCode | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [.sql](leetcode/1683.sql) | ✅ |
 
 <br><br>
 
